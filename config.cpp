@@ -29,8 +29,8 @@ class CfgMods
 		hideName=1;
 		hidePicture=1;
 		name="Source_Car";
-		credits="Spurgle, Yoluke86"; //Add yourself if you contribute
-		author="Spurgle";
+		credits="TuNix"; //Add yourself if you contribute
+		author="TuNix";
 		authorID="0";  //authors steam id???
 		version="1.0";
 		extra=0;
